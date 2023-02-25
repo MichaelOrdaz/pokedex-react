@@ -1,0 +1,18 @@
+.footer {
+  display: flex;
+  background: skyblue;
+  padding: 10px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+.link {
+  width: 33.33%;
+}
+
+.img {
+  display: block;
+  width: 35px;
+  margin: 5px auto;
+}
